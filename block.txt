@@ -1,3 +1,4 @@
+! Title: 定制规则
 cn.bing.com###tallhead
 cn.bing.com##.mic_cont.icon.partner
 cn.bing.com###b_footer
@@ -10,3 +11,4 @@ post.m.smzdm.com##.module-waper
 post.m.smzdm.com##.basis-tab
 post.m.smzdm.com##.header-fix
 post.m.smzdm.com##.crumbs
+tieba.baidu.com###tiebaCustomPassLogin
