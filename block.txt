@@ -1,0 +1,12 @@
+cn.bing.com###tallhead
+cn.bing.com##.mic_cont.icon.partner
+cn.bing.com###b_footer
+cn.bing.com###b_pag_sh_btn_container
+cn.bing.com##.b_msg
+post.m.smzdm.com##.header-white
+post.m.smzdm.com##.altice-common-module
+post.m.smzdm.com##.interested-module
+post.m.smzdm.com##.module-waper
+post.m.smzdm.com##.basis-tab
+post.m.smzdm.com##.header-fix
+post.m.smzdm.com##.crumbs
